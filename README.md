@@ -39,8 +39,13 @@
 | `git tag tagName nameCommit`| створення тегу (версії)|
 | `git describe nameCommit`| виведення інформ про найближчий тег від комміта( за замовчуванням HEAD) кількість комітів до нього та його хеш|
 
-
-
+скріншоти:<br />
+[1 тиждень](./task_git_collaboration/coursera1.png)
+[2 тиждень](./task_git_collaboration/coursera2.png)
+[3 тиждень](./task_git_collaboration/coursera3.png)
+[4 тиждень](./task_git_collaboration/coursera4.png)
+[основи](./task_git_collaboration/2.png)
+[віддалені репо ](./task_git_collaboration/1.png)
 
 
 
