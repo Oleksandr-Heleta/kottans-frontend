@@ -1,5 +1,16 @@
 # kottans-frontend
 
+## Linux, Command Line, HTTP Tools
+
+Робота з Linux була для мене нова, а також HTTPS<br />
+Буду використовувати вивчені команди в Git Bash<br />
+Виконані завдання на скрінах (і для мене пам'ятка по командам):<br />
+![1](./task_linux_cli/part1.png)<br />
+![2](./task_linux_cli/part2.png)<br />
+![3](./task_linux_cli/part3.png)<br />
+![4](./task_linux_cli/part4.png)<br />
+
+
 ## Git Collaboration
 
 Майже всі "флаги" для мене були новими <br />
