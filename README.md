@@ -1,6 +1,16 @@
 # kottans-frontend
 
-## Linux, Command Line, HTTP Tools
+## Intro to HTML and CSS
+
+Важливість написання симантично вірної верстки<br />
+Здивувало що можна вказувати селектори класів за допомогою атрибутів (відмінних від id i class)<br />
+Буду намагатись писати симантично вірні html файли<br />
+скріншоти:<br />
+[1 тиждень](./task_html_css_intro/week1.png)
+[2 тиждень](./task_html_css_intro/week2.png)
+[практичні заняття](./task_html_css_intro/practise.png)
+
+## Linux CLI, and HTTP
 
 Робота з Linux була для мене нова, а також HTTPS<br />
 Буду використовувати вивчені команди в Git Bash<br />
