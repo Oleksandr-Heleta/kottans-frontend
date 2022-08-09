@@ -1,5 +1,20 @@
 # kottans-frontend
 
+## Responsive Web Design
+
+Гріди і брейкпоінти<br />
+Здивувало що за допомогою двох команд (grid-template / grid-area) можна стилізувати будьякої складності сайт<br />
+Планую досконало опанувати гріди та використовувати їх<br />
+скріншоти:<br />
+[Відео по флексах](./task_responsive_web_design/flexvideo.png)
+[Відео по грідах](./task_responsive_web_design/gridvideo.png)
+[Flexbox Froggy](./task_responsive_web_design/froggy.png)
+[Grid Gerden](./task_responsive_web_design/garden.png)<br />
+
+Ігри:
+[Grid Gerden](http://cssgridgarden.com/)
+[Flexbox Froggy](http://flexboxfroggy.com/)
+
 ## Intro to HTML and CSS
 
 Важливість написання симантично вірної верстки<br />
