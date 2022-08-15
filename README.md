@@ -1,5 +1,21 @@
 # kottans-frontend
 
+## JS Basics
+
+Загалом JS для мене не був новим, по крайній мірі базові речі. <br />
+Я біль ніж впевнений що він мене ще здивує коли буду вивчати його глибше.<br />
+скріншоти:<br />
+[4 тиждень](./task_js_basics/coursera4.png)
+[Basic JS](./task_js_basics/BasicJS.png)
+[ES6](./task_js_basics/ES6.png)
+[Basic Data Structures](./task_js_basics/BasicDataStructures.png)
+[Basic Algorithm Scripting](./task_js_basics/BasicAlgorithmScripting.png)
+[Functional Programming](./task_js_basics/FunctionalProgramming.png)
+[Algorithm Scripting](./task_js_basics/AlgorithmScripting.png)
+<br />
+
+
+
 ## Responsive Web Design
 
 Гріди і брейкпоінти<br />
