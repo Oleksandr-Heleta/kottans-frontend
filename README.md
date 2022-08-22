@@ -1,4 +1,11 @@
 # kottans-frontend
+## html-css-popup
+
+[Demo](https://oleksandr-heleta.github.io/kottans-popup/)|
+[Code](https://github.com/Oleksandr-Heleta/kottans-popup)<br />
+
+Практика допомогла узагальнити знання<br />
+Дізнався про псевдоклас checked та його можливості, а також про властивість appearence для input<br />
 
 ## JS Basics
 
