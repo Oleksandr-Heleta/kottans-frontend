@@ -1,4 +1,16 @@
 # kottans-frontend
+## DOM
+
+[Demo](https://oleksandr-heleta.github.io/kottans-DOM_task/)|
+[Code](https://github.com/Oleksandr-Heleta/kottans-DOM_task)<br />
+
+DOM - це справжня магія з якою можна творити дива<br />
+Основне що я зрозумів і взяв на озброєння - це присвоєння listenera на батька для багатьох інтерактивних елементів)<br />
+
+скріншоти:<br />
+[DOM manipulation](./task_js_dom/DOMManipulation.png)
+[Algorithm Scripting](./task_js_dom/AlgorithmScripting.png)
+
 ## html-css-popup
 
 [Demo](https://oleksandr-heleta.github.io/kottans-popup/)|
