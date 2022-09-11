@@ -1,4 +1,14 @@
 # kottans-frontend
+
+## Object Oriented JS
+
+[Demo](https://oleksandr-heleta.github.io/frontend-nanodegree-arcade-game)|
+[Code](https://github.com/Oleksandr-Heleta/frontend-nanodegree-arcade-game/tree/kottans-frogger)<br />
+
+[CodeWars link](https://www.codewars.com/users/Oleksandr-Heleta)<br />
+
+OOP- дуже цікава тема, найцікавіше це прототипування об'єків.
+
 ## DOM
 
 [Demo](https://oleksandr-heleta.github.io/kottans-DOM_task/)|
@@ -8,7 +18,7 @@ DOM - це справжня магія з якою можна творити д�
 Основне що я зрозумів і взяв на озброєння - це присвоєння listenera на батька для багатьох інтерактивних елементів)<br />
 
 скріншоти:<br />
-[DOM manipulation](./task_js_dom/DOMManipulation.png)
+[DOM manipulation](./task_js_dom/DOMManipulation.png)|
 [Algorithm Scripting](./task_js_dom/AlgorithmScripting.png)
 
 ## html-css-popup
@@ -24,13 +34,13 @@ DOM - це справжня магія з якою можна творити д�
 Загалом JS для мене не був новим, по крайній мірі базові речі. <br />
 Я біль ніж впевнений що він мене ще здивує коли буду вивчати його глибше.<br />
 скріншоти:<br />
-[4 тиждень](./task_js_basics/coursera4.png)
-[Basic JS](./task_js_basics/BasicJS.png)
-[ES6](./task_js_basics/ES6.png)
-[Basic Data Structures](./task_js_basics/BasicDataStructures.png)
-[Basic Algorithm Scripting](./task_js_basics/BasicAlgorithmScripting.png)
-[Functional Programming](./task_js_basics/FunctionalProgramming.png)
-[Algorithm Scripting](./task_js_basics/AlgorithmScripting.png)
+[4 тиждень](./task_js_basics/coursera4.png)|
+[Basic JS](./task_js_basics/BasicJS.png)|
+[ES6](./task_js_basics/ES6.png)|
+[Basic Data Structures](./task_js_basics/BasicDataStructures.png)|
+[Basic Algorithm Scripting](./task_js_basics/BasicAlgorithmScripting.png)|
+[Functional Programming](./task_js_basics/FunctionalProgramming.png)|
+[Algorithm Scripting](./task_js_basics/AlgorithmScripting.png)|
 <br />
 
 
@@ -41,13 +51,13 @@ DOM - це справжня магія з якою можна творити д�
 Здивувало що за допомогою двох команд (grid-template / grid-area) можна стилізувати будьякої складності сайт<br />
 Планую досконало опанувати гріди та використовувати їх<br />
 скріншоти:<br />
-[Відео по флексах](./task_responsive_web_design/flexvideo.png)
-[Відео по грідах](./task_responsive_web_design/gridvideo.png)
-[Flexbox Froggy](./task_responsive_web_design/froggy.png)
+[Відео по флексах](./task_responsive_web_design/flexvideo.png)|
+[Відео по грідах](./task_responsive_web_design/gridvideo.png)|
+[Flexbox Froggy](./task_responsive_web_design/froggy.png)|
 [Grid Gerden](./task_responsive_web_design/garden.png)<br />
 
 Ігри:
-[Grid Gerden](http://cssgridgarden.com/)
+[Grid Gerden](http://cssgridgarden.com/)|
 [Flexbox Froggy](http://flexboxfroggy.com/)
 
 ## Intro to HTML and CSS
@@ -56,8 +66,8 @@ DOM - це справжня магія з якою можна творити д�
 Здивувало що можна вказувати селектори класів за допомогою атрибутів (відмінних від id i class)<br />
 Буду намагатись писати симантично вірні html файли<br />
 скріншоти:<br />
-[1 тиждень](./task_html_css_intro/week1.png)
-[2 тиждень](./task_html_css_intro/week2.png)
+[1 тиждень](./task_html_css_intro/week1.png)|
+[2 тиждень](./task_html_css_intro/week2.png)|
 [практичні заняття](./task_html_css_intro/practise.png)
 
 ## Linux CLI, and HTTP
